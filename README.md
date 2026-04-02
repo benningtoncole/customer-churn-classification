@@ -17,6 +17,7 @@ Matplotlib
 Logistic Regression
 Random Forest
 ROC-AUC Analysis
+
 📊 Model Performance
 Logistic Regression (Scaled)
 Accuracy: 0.81
@@ -46,6 +47,7 @@ Longer tenure
 One-year and two-year contracts
 Customers with dependents
 Tech support and online security services
+
 📈 Business Impact
 Enables proactive identification of high-risk customers
 Supports targeted retention campaigns
